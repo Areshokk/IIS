@@ -56,3 +56,7 @@ For detailed explanation on how things work, checkout the [guide](https://github
 ## License
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
+
+
+## Integration of information systems
+### _Meda Yurii IT-23_
